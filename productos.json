@@ -1,0 +1,41 @@
+{
+    "productos": [
+        {
+            "producto": "jamon natural",
+            "precio": 1500,
+            "imagen": "/img/jamonNatural.jpg",
+            "stock":20
+        },
+        {
+            "producto": "jamon Crudo",
+            "precio": 1500,
+            "imagen":"img/jamonCrudo.jpg",
+            "stock":20
+        },
+        {
+            "producto": "Mortadela",
+            "precio": 1500,
+            "imagen":"img/Mortadela.jpg",
+            "stock":20
+        },
+        {
+            "producto": "queso gouda",
+            "precio": 1500,
+            "imagen":"img/gouda.jpg",
+            "stock":20
+        },
+        {
+            "producto": "queso Tybo",
+            "precio": 1500,
+            "imagen":"img/quesoTybo.jpg",
+            "stock":20
+        }
+        
+    ]
+}
+
+
+
+
+
+
